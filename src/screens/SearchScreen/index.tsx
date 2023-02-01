@@ -5,9 +5,9 @@ import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 
-import Header from '../../components/Header';
-import Menu from '../../components/Menu';
-import Calendar from '../../components/Calendar';
+import Header from '../../components/Applications/Header';
+import Menu from '../../components/Applications/Menu';
+import Calendar from '../../components/Applications/Calendar';
 
 const SearchScreen = () => {
     const mdTheme = createTheme();
